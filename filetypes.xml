@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;node_modules;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="sherwood_svg_map_bk" type="PHP" />
+      <mapping pattern="Pull script" type="PLAIN_TEXT" />
+      <mapping pattern="modules" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="webm" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
