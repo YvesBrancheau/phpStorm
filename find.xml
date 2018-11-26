@@ -22,5 +22,6 @@
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.php, *.twig</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
